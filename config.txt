@@ -1,0 +1,1 @@
+org.ua.deth.spring.reflection.IDao:org.ua.deth.spring.reflection.MyService:org.ua.deth.spring.dao:org.ua.deth.spring.reflection.SecondImpl
